@@ -13,6 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+This is a collection of pictures of the Pingel Family.  It started with a foundational family portrait feature Peter and Gertrude Pingel and each of their fifteen children.  Each additional image features the children individually or with their spouse if they were married during their lifetime.  With this collection, I hoped to create a group of images to help visualize a family tree for the Pingel family and their descendants.
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
