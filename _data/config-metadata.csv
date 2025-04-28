@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
-date_taken, Date_Taken
+date, Date_Taken
 description,Description,
 relation_to_peter_pingel_from_left_to_right, Relation_To_Peter_Pingel_From_Left_To_Right
 subject,Subjects,true
