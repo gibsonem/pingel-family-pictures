@@ -2,8 +2,11 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date_taken, Date_Taken
 description,Description,
+relation_to_peter_pingel_from_left_to_right, Relation_To_Peter_Pingel_From_Left_To_Right
 subject,Subjects,true
+alttext, Alttext
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -11,5 +14,10 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+original_format, Original_Format
+surrogacy, Surrogacy
+date_scanned, Date_Scanned
+provenance, Provenance
+rights_holder, Rights_Holder
 rights,Rights,
 rightsstatement,Rights Statement,,true
